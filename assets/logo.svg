@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Auto škola Dule">
+  <g fill="#0C0E10" font-family="Archivo, &#39;Segoe UI&#39;, sans-serif">
+    <circle cx="30" cy="32" r="26" fill="#0A7E8C"></circle>
+    <text x="30" y="41" font-size="26" font-weight="700" fill="#F1EFEA" text-anchor="middle" letter-spacing="-1">AŠ</text>
+    <text x="72" y="28" font-size="21" font-weight="700" letter-spacing="-0.5">Auto škola</text>
+    <text x="72" y="50" font-size="21" font-weight="700" fill="#0A7E8C" letter-spacing="-0.5">Dule</text>
+  </g>
+</svg>
